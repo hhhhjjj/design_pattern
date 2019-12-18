@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12351659-d941-41d3-9b60-dbf63fb3057f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/低耦合高内聚.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码的可测试性.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/低耦合高内聚.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/低耦合高内聚.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/贫血模型和充血模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/贫血模型和充血模型.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,35 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/扩展开放修改关闭.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/贫血模型和充血模型.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/低耦合高内聚.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,14 +32,15 @@
         <option value="$PROJECT_DIR$/扩展开放修改关闭.ipynb" />
         <option value="$PROJECT_DIR$/贫血模型和充血模型.ipynb" />
         <option value="$PROJECT_DIR$/低耦合高内聚.ipynb" />
+        <option value="$PROJECT_DIR$/代码的可测试性.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2752" />
-    <option name="y" value="317" />
-    <option name="width" value="859" />
-    <option name="height" value="327" />
+    <option name="x" value="1537" />
+    <option name="y" value="264" />
+    <option name="width" value="1936" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,6 +50,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,7 +62,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,18 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1576315262886</updated>
       <workItem from="1576315270515" duration="1647000" />
-      <workItem from="1576391078051" duration="2378000" />
+      <workItem from="1576391078051" duration="4090000" />
+      <workItem from="1576662168060" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4025000" />
+    <option name="totallyTimeSpent" value="5840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,10 +136,17 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/扩展开放修改关闭.ipynb">
+    <entry file="file://$PROJECT_DIR$/代码的可测试性.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/低耦合高内聚.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
         </state>
       </provider>
     </entry>
@@ -176,10 +157,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/低耦合高内聚.ipynb">
+    <entry file="file://$PROJECT_DIR$/扩展开放修改关闭.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
