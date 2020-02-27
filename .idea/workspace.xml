@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12351659-d941-41d3-9b60-dbf63fb3057f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/创建者模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python实现单例模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/抽象工厂模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/抽象工厂模式.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +40,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.工厂方法模式">
+  <component name="RunManager">
     <configuration name="简单工厂型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +89,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.工厂方法模式" />
         <item itemvalue="Python.简单工厂型" />
       </list>
     </recent_temporary>
@@ -120,6 +119,7 @@
       <workItem from="1576391078051" duration="4090000" />
       <workItem from="1576662168060" duration="103000" />
       <workItem from="1582786998523" duration="10366000" />
+      <workItem from="1582812033274" duration="712000" />
     </task>
     <servers />
   </component>
@@ -129,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/Design-pattern" />
+      <path value="$PROJECT_DIR$/design_pattern" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
@@ -148,9 +149,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="73" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582808606466" />
-    <state x="2383" y="165" key="SettingsEditor" timestamp="1582787071112">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="288" y="0" key="SettingsEditor" timestamp="1582812065295">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="288" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582812065295" />
     <state x="2383" y="165" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582787071112" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
