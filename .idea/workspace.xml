@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12351659-d941-41d3-9b60-dbf63fb3057f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/工厂方法模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/抽象工厂模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单工厂型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计模式六大原则.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/创建者模式.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/抽象工厂模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/抽象工厂模式.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +119,7 @@
       <workItem from="1576315270515" duration="1647000" />
       <workItem from="1576391078051" duration="4090000" />
       <workItem from="1576662168060" duration="103000" />
-      <workItem from="1582786998523" duration="8265000" />
+      <workItem from="1582786998523" duration="10366000" />
     </task>
     <servers />
   </component>
@@ -136,22 +132,22 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="73" key="GridCell.Tab.0.bottom" timestamp="1582802281102">
+    <state width="1237" height="73" key="GridCell.Tab.0.bottom" timestamp="1582808606466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="73" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582802281102" />
-    <state width="1237" height="73" key="GridCell.Tab.0.center" timestamp="1582802281102">
+    <state width="1237" height="73" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582808606466" />
+    <state width="1237" height="73" key="GridCell.Tab.0.center" timestamp="1582808606466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="73" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582802281102" />
-    <state width="1237" height="73" key="GridCell.Tab.0.left" timestamp="1582802281102">
+    <state width="1237" height="73" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582808606466" />
+    <state width="1237" height="73" key="GridCell.Tab.0.left" timestamp="1582808606466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="73" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582802281102" />
-    <state width="1237" height="73" key="GridCell.Tab.0.right" timestamp="1582802281102">
+    <state width="1237" height="73" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582808606466" />
+    <state width="1237" height="73" key="GridCell.Tab.0.right" timestamp="1582808606466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="73" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582802281102" />
+    <state width="1237" height="73" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582808606466" />
     <state x="2383" y="165" key="SettingsEditor" timestamp="1582787071112">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
