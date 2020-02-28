@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12351659-d941-41d3-9b60-dbf63fb3057f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python实现单例模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单例模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原型模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/适配器模式.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +121,7 @@
       <workItem from="1576662168060" duration="103000" />
       <workItem from="1582786998523" duration="10366000" />
       <workItem from="1582812033274" duration="712000" />
+      <workItem from="1582897609376" duration="2351000" />
     </task>
     <servers />
   </component>
